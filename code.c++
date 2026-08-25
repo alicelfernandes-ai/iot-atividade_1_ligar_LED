@@ -1,3 +1,5 @@
+// C++ code
+//
 int buttonPin = 7;
 int ledPin = 10;
 bool estadoLed = false;
